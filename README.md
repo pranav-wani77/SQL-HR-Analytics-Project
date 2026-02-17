@@ -1,5 +1,7 @@
 # HR Analytics SQL Project
 
+Performed Exploratory Data Analysis on retail sales data using MySQL to identify sales trends, profit performance, and regional insights.
+
 This project focuses on performing Exploratory Data Analysis (EDA) on a retail sales dataset using MySQL.
 The objective is to analyze sales performance, identify trends, detect anomalies,
 and generate meaningful business insights using SQL queries.
